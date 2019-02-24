@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/elasyaf/redis.svg?branch=master)](https://travis-ci.org/elasyaf/redis)
+[![Build Status](https://travis-ci.com/elasyaf/redis.svg?branch=master)](https://travis-ci.com/elasyaf/redis)
 
 # redis
 
